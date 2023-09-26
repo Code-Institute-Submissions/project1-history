@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+  
+    {
+      "type": "chrome",
+      "request": "launch",
+      "name": "Open about.html",
+      "file": "/workspaces/project1-history/about.html"
+    }
+  ]
+}
